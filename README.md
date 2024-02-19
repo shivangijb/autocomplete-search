@@ -1,6 +1,5 @@
-##Autocomplete Search
 
-Build an Autocomplete for Searching and Selecting a Company
+Building an Autocomplete for Searching and Selecting a Company
 
 There should be an Input Field. 
 As the user types in, it should search against this API - 
